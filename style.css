@@ -1,0 +1,50 @@
+body	{
+		background-color: orange;
+		color: black;
+		font-size: small;
+		font-family: georgian, "Trebuchet MS", Verdana, sans-serif;		
+}
+
+h1, em	{
+		font-weight: bold;
+		font-style:normal;
+}
+		
+h1
+	{
+		font-size: 200%;
+	}
+		
+	em	{
+		color: blue;
+	}
+		
+	ul em
+	{
+		color: red;
+	}
+	
+.fossilien em	{
+		color: brown;
+}
+.volleyball em   {
+		color: yellow;
+}
+.Fächer em 		{
+		color: white;
+}
+img {
+		width: 400px;
+}
+body {
+		font-size: 25px; 
+}
+h2 {
+		font-size: 2.0em;
+}
+h1{ 
+		font-weight: bold; color: red 
+}
+h1	{
+		font-size: 300%;
+}
