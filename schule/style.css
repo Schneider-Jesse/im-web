@@ -1,0 +1,27 @@
+body
+{
+		background-color: orange;
+		color: black;
+		font-size: small;
+		font-family: georgia, "Trebuch MS", Verdana, sans-serif;
+		
+}
+
+h1, em
+{
+		font-weight: bold;
+		font-style: normal;
+}
+h1
+{
+		font-size: 200%;
+}
+
+em
+{
+		color: blue;
+}
+
+h2 {
+		font-size: 2.5em;
+}
